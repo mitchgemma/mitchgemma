@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, I'm Mitch 👋
+
+### About Me
+I am a full-stack developer, located in the Greater Boston Are and am currently looking for full-time work opportunities. I love working with React, but am open to any positions that will allow me to grow and expand my coding knowledge.
+
 
 <!--
 **mitchgemma/mitchgemma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
