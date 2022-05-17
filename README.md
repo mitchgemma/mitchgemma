@@ -1,9 +1,18 @@
 ## Hi there, I'm Mitch 👋
 
+### 📫 How to reach me
+- Email: mitchgemma@gmail.com
+- Phone Number: (401) 871-9900
+
 ### About Me
 I am a full-stack developer, located in the Greater Boston Are and am currently looking for full-time work opportunities. I love working with React, but am open to any positions that will allow me to grow and expand my coding knowledge.
 
+### 🌱 I’m currently learning...
+More about data structures and algorithms, and building a portfolio with React to showcase all of my projects and work.
 
+### GitHub Stats
+![](https://raw.githubusercontent.com/mitchgemma/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 <!--
 **mitchgemma/mitchgemma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
