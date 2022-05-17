@@ -11,8 +11,12 @@ I am a full-stack developer, located in the Greater Boston Are and am currently 
 More about data structures and algorithms, and building a portfolio with React to showcase all of my projects and work.
 
 ### GitHub Stats
-![](https://raw.githubusercontent.com/mitchgemma/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=mitchgemma&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/wakatime">
+  <img align="center" height="190px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchgemma&show_icons=true&theme=radical&layout=compact" />
+</a>
 <!--
 **mitchgemma/mitchgemma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,3 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
