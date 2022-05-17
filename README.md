@@ -11,12 +11,14 @@ I am a full-stack developer, located in the Greater Boston Are and am currently 
 More about data structures and algorithms, and building a portfolio with React to showcase all of my projects and work.
 
 ### GitHub Stats
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=mitchgemma&show_icons=true&theme=radical" />
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=mitchgemma&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/wakatime">
-  <img align="center" height="190px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchgemma&show_icons=true&theme=radical&layout=compact" />
+  <img align="center" height="180px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchgemma&show_icons=true&theme=radical&layout=compact" />
 </a>
+  </div>
 <!--
 **mitchgemma/mitchgemma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
