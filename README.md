@@ -13,7 +13,6 @@ I am a full-stack developer, located in the Greater Boston Area and am currently
 
 ### :sunny: Besides coding I enjoy...
 - Getting active, whether it be on the in the gym, or outside on the mountains, trails, or links
-- 
 
 ### GitHub Stats
 <div align="center">
