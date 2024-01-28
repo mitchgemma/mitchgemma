@@ -8,9 +8,6 @@
 ### About Me
 I am a full-stack developer, located in the Greater Boston Area and am currently looking for full-time work opportunities. I love working with React, but am open to any positions that will allow me to grow and expand my coding knowledge.
 
-### 🌱 I’m currently learning...
-- More about data structures and algorithms and building a portfolio with React to showcase all of my projects and work
-
 ### :sunny: Besides coding I enjoy...
 - Getting active, whether it be in the gym, or outside on the mountains, trails, or links
 
