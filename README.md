@@ -6,7 +6,7 @@
 - <a href="http://www.linkedin.com/in/mitchell-gemma" target="_top">LinkedIn</a>
 
 ### About Me
-I am a full-stack developer, located in the Greater Boston Area and am currently looking for full-time work opportunities. I love working with React, but am open to any positions that will allow me to grow and expand my coding knowledge.
+I am a full-stack developer, located in the Denver Area and am currently looking for full-time work opportunities. I love working with React, but am open to any positions that will allow me to grow and expand my coding knowledge.
 
 ### :sunny: Besides coding I enjoy...
 - Getting active, whether it be in the gym, or outside on the mountains, trails, or links
